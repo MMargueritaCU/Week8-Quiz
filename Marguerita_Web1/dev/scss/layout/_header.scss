@@ -1,0 +1,21 @@
+/* =============
+    Header
+============= */
+#header{
+  background-image: url("../img/hero/robots.jpg");
+  background-position: center;
+  background-size: cover;
+  height: 308px;
+
+  h1{
+    text-align: center;
+    color: $offWhite;
+    padding-top: 109px;
+    font-size: rem-calc(50);
+  }
+
+  h2{
+    text-align: center;
+    color: $offWhite;
+  }
+}
